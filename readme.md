@@ -1,4 +1,4 @@
-#Adopt a pet APP
+# Adopt a pet APP
 
 This app is a result of taking the frondEndMasters course:
 
@@ -11,7 +11,7 @@ API_KEY and API_SECRET from [Petfinder API! ](http://www.petfinder.com/developer
 
 Once you have your own Key and Secret, you need to add them to the .env file to make it work.
 
-##Commands
+## Commands
 
 - To install package json:
 
