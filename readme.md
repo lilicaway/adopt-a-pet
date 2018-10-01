@@ -22,5 +22,5 @@ Once you have your own Key and Secret, you need to add them to the .env file to 
 - To run dev mode:
 
   ```
-    npm run dev
+  npm run dev
   ```
